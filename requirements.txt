@@ -1,0 +1,4 @@
+lightgbm
+streamlit
+scikit-learn
+Flask
